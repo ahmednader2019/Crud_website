@@ -1,0 +1,24 @@
+.d-flex button {
+  margin: 1.5em 0.6em;
+  padding: 1em 3em;
+}
+
+.d-flex table {
+  margin: 1em 1em;
+  padding: 2em 2em;
+}
+
+table .btnedit {
+  color: lightsalmon;
+  cursor: pointer;
+}
+
+.Success {
+  background-color: lightgreen;
+  padding: 1em;
+}
+
+.error {
+  background-color: tomato;
+  padding: 1em;
+}
